@@ -1,4 +1,3 @@
-##  Welcome to my GitHub Page! 
 
 Im Rasmus, a guy from Denmark studying and learning code. 
 
