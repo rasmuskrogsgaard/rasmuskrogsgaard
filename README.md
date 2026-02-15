@@ -1,6 +1,5 @@
 ##  Welcome to my GitHub Page! 
 
-![wave](https://github.com/rasmuskrogsgaard/rasmuskrogsgaard/assets/113165532/77d9c507-607a-47be-b758-40dcb35e453f)
 Im Rasmus, a guy from Denmark studying and learning code. 
 
 
